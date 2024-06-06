@@ -7,8 +7,10 @@ I'm Satvik Agrawal, a third-year Computer and Communications Undergraduate stude
 Alongside my progress in Computer Programming, I am\
 exploring the field of Aerospace Software Systems Design\
 and Engineering as a Junior member of India's top rocketry\
-team, ThrustMIT. Here, I develop firmware solutions for the flight computer and\
-associated testing systems. It is also an engaging avenue for gaining practical experience with developing hardware systems and implementing required software.
+team, ThrustMIT. Here, I develop firmware solutions for the\
+flight computer and associated testing systems. It is also an\
+engaging avenue for gaining practical experience with\
+developing hardware systems and implementing required software.
 
 <br />
 
