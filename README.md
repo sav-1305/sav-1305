@@ -4,11 +4,11 @@
 
 I'm Satvik Agrawal, a third-year Computer and Communications Undergraduate student at Manipal Institute of Technology, Manipal. Along my journey in learning Computer Science and its applications, I have found passion in Software Development and Data Analytics. I am currently specializing in developing applications with cloud-based environments and robust Data Management.
 
-Alongside my progress in Computer Programming, I am exploring\
-the field of Aerospace Software Systems Design and Engineering as a Junior member of
-India's top rocketry team, ThrustMIT. Here, I develop firmware solutions for the flight computer and associated testing systems. It is also an engaging avenue\
-for gaining practical experience with developing hardware systems and\
-implementing required software.
+Alongside my progress in Computer Programming, I am\
+exploring the field of Aerospace Software Systems Design\
+and Engineering as a Junior member of India's top rocketry\
+team, ThrustMIT. Here, I develop firmware solutions for the flight computer and\
+associated testing systems. It is also an engaging avenue for gaining practical experience with developing hardware systems and implementing required software.
 
 <br />
 
