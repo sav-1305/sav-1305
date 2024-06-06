@@ -9,7 +9,7 @@ exploring the field of Aerospace Software Systems Design\
 and Engineering as a Junior member of India's top rocketry\
 team, ThrustMIT. Here, I develop firmware solutions for the\
 flight computer and associated testing systems. It is also an\
-engaging avenue for gaining practical experience with\
+engaging avenue for gaining practical experience in\
 developing hardware systems and implementing required software.
 
 <br />
