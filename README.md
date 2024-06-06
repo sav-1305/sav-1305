@@ -14,12 +14,10 @@ developing hardware systems and implementing required software.
 
 <br />
 
-- Currently learning Front-end Web Development and Cloud Environments.
-- Developing Embedded-C firmware solutions for a Flight Computer.
-- Exploring node-based wireless communication systems for Data Telemetry from a sounding rocket.
-- reach me at satvikagrawal.86@gmail.com .
-
-<br />
+- ⚒️ Currently learning Front-end Web Development and Cloud Environments.
+- 🚀 Developing Embedded-C firmware solutions for a Flight Computer.
+- 📻 Exploring node-based wireless communication systems for Data Telemetry from a sounding rocket.
+- 📫 Reach me at satvikagrawal.86@gmail.com .
 
 <h2 align: left>RECENT PROJECTS</h2>
 Here are selected projects I have been working on:
@@ -28,8 +26,7 @@ Here are selected projects I have been working on:
 2. [ADXL375 Firmware](https://github.com/sav-1305/STM32F4XX-ADXL375) - STM32 HAL Library written in C for the ADXL375 Accelerometer utilising SPI Communication Protocol.
 3. [Data Plotter built with Dash](https://github.com/sav-1305/Data-Plotter-Dash) - Data Visualization and Live Plotter made in Python using the Plotly-Dash library.
 4. [Churn Prediction Project](https://github.com/sav-1305/Churn-Prediction-Project) - EDA and Predictive Modeling for a publicly available dataset provided for Customer Churn Analysis and Prediction.
-
-<br />
+5. [IBM Data Science Capstone](https://github.com/sav-1305/IBM-Data-Science-Capstone) - Capstone Project made for the IBM Data Science Specialization Certificate with the objective of determining the landing outcome of a Falcon-9 Rocket.
 
 <h2 align: left>CONNECT WITH ME</h2>
 <p align: left>
@@ -37,8 +34,6 @@ Here are selected projects I have been working on:
 <a href="https://www.linkedin.com/in/satvik-agrawal-47368b264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satvik agrawal" height="30" width="40" /></a>
 
 </p>
-
-<br />
 
 <h2 align: left>LANGUAGES AND TOOLS</h2>
 
