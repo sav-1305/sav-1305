@@ -8,7 +8,7 @@ Alongside my progress in Computer Programming, I am exploring the field of Aeros
 
 <br />
 
-- ⚒️ Currently learning Front-end Web Development and Cloud Environments.
+- ⚒️ Currently learning Full-Stack Web Development and studying Cybersecurity.
 - 🚀 Developing Embedded-C firmware solutions for a Flight Computer.
 - 📻 Exploring node-based wireless communication systems for Data Telemetry from a sounding rocket.
 - 📫 Reach me at satvikagrawal.86@gmail.com .
