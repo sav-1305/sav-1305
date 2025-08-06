@@ -16,7 +16,7 @@ Alongside my journey in Computer Science Engineering, I am exploring the field o
 <h2 align: left>RECENT PROJECTS</h2>
 Here are selected projects I have been working on:
 
-1. [Hybrid Model for Zero-Day Threat Detection](https://github.com/sav-1305/Hybrid-Model-IDS-AICS-SEMVI) - Product Placement Front-end Webpage created for an Accelerometer made using the javascript Reactjs framework, styled with CSS. 
+1. [Hybrid Model for Zero-Day Threat Detection](https://github.com/sav-1305/hybrid-model-for-zero-day-threats) - Hybrid Machine learning pipeline for detecting zero-day threats in network intrusion detection systems (NIDS).
 2. [Blog Webpage](https://github.com/sav-1305/blog-webpage) - Blog page developed using the MERN Stack (MongoDB, Express.js, Reactjs, Node.js) and styled with CSS3.
 This project was managed using `yarn`.
 3. [Data Plotter built with Dart](https://github.com/sav-1305/plotter-2025) - Data Visualization and Live Plotter made Developed in Dart to display and record real-time flight data, oriented to the flight of a Sounding Rocket.
